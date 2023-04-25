@@ -1,4 +1,5 @@
 # Jargon
+This page is a list of terms you should know when learning Deep Learning.
 
 ## Jupyter Notebook
 
