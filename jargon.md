@@ -1,4 +1,6 @@
-# Jupyter Notebook
+# Jargon
+
+## Jupyter Notebook
 
 A piece of software that allows you to
 include formatted text, code, images, videos, and much more, all
